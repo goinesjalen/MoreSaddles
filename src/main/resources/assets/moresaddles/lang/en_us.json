@@ -1,9 +1,9 @@
 {
   "itemGroup.moresaddles.saddles": "More Saddles",
   
-  "_comment": "Future saddle items will be added here",
-  "item.moresaddles.diamond_saddle": "Diamond Saddle",
+  "_comment": "Saddle items",
   "item.moresaddles.iron_saddle": "Iron Saddle",
+  "item.moresaddles.diamond_saddle": "Diamond Saddle",
   "item.moresaddles.gold_saddle": "Gold Saddle",
   "item.moresaddles.emerald_saddle": "Emerald Saddle",
   "item.moresaddles.netherite_saddle": "Netherite Saddle",
@@ -13,8 +13,8 @@
   "item.moresaddles.flying_saddle": "Flying Saddle",
   
   "_comment_tooltips": "Tooltips for saddles",
+  "item.moresaddles.iron_saddle.tooltip": "A sturdy iron saddle that makes your horse faster and tougher.",
   "item.moresaddles.diamond_saddle.tooltip": "A luxurious saddle made of diamonds",
-  "item.moresaddles.iron_saddle.tooltip": "A sturdy iron saddle for everyday riding",
   "item.moresaddles.gold_saddle.tooltip": "A shiny golden saddle fit for royalty",
   "item.moresaddles.emerald_saddle.tooltip": "An exotic emerald saddle with mystical properties",
   "item.moresaddles.netherite_saddle.tooltip": "The ultimate saddle forged from netherite",

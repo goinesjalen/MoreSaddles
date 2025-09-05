@@ -16,6 +16,10 @@ public class MoreSaddlesMod {
     public MoreSaddlesMod(IEventBus modEventBus, ModContainer modContainer) {
         modEventBus.addListener(this::commonSetup);
         modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
+        
+        // Register items and creative tabs
+        ModItems.register(modEventBus);
+        ModCreativeTabs.register(modEventBus);
     }
 
     private void commonSetup(FMLCommonSetupEvent event) {
