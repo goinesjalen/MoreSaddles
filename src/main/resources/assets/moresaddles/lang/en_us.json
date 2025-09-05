@@ -1,0 +1,25 @@
+{
+  "itemGroup.moresaddles.saddles": "More Saddles",
+  
+  "_comment": "Future saddle items will be added here",
+  "item.moresaddles.diamond_saddle": "Diamond Saddle",
+  "item.moresaddles.iron_saddle": "Iron Saddle",
+  "item.moresaddles.gold_saddle": "Gold Saddle",
+  "item.moresaddles.emerald_saddle": "Emerald Saddle",
+  "item.moresaddles.netherite_saddle": "Netherite Saddle",
+  "item.moresaddles.speed_saddle": "Speed Saddle",
+  "item.moresaddles.jump_saddle": "Jump Saddle",
+  "item.moresaddles.health_saddle": "Health Saddle",
+  "item.moresaddles.flying_saddle": "Flying Saddle",
+  
+  "_comment_tooltips": "Tooltips for saddles",
+  "item.moresaddles.diamond_saddle.tooltip": "A luxurious saddle made of diamonds",
+  "item.moresaddles.iron_saddle.tooltip": "A sturdy iron saddle for everyday riding",
+  "item.moresaddles.gold_saddle.tooltip": "A shiny golden saddle fit for royalty",
+  "item.moresaddles.emerald_saddle.tooltip": "An exotic emerald saddle with mystical properties",
+  "item.moresaddles.netherite_saddle.tooltip": "The ultimate saddle forged from netherite",
+  "item.moresaddles.speed_saddle.tooltip": "Increases your mount's speed",
+  "item.moresaddles.jump_saddle.tooltip": "Allows your mount to jump higher",
+  "item.moresaddles.health_saddle.tooltip": "Provides additional health to your mount",
+  "item.moresaddles.flying_saddle.tooltip": "Grants limited flight to land mounts"
+}
